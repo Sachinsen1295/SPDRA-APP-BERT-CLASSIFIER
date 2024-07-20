@@ -1,0 +1,9 @@
+setup.py
+src/BERTCLASSIFIER.egg-info/PKG-INFO
+src/BERTCLASSIFIER.egg-info/SOURCES.txt
+src/BERTCLASSIFIER.egg-info/dependency_links.txt
+src/BERTCLASSIFIER.egg-info/top_level.txt
+src/prediction/__init__.py
+src/prediction/model_predict.py
+src/utils/__init__.py
+src/utils/model_download.py
